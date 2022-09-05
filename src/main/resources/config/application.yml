@@ -1,0 +1,9 @@
+spring:
+  main:
+    banner-mode: 'off'
+
+app:
+  event:
+    fine:
+      speed-rate: 50
+      red-light-rate: 100
